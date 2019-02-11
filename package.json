@@ -1,0 +1,19 @@
+{
+  "name": "test-sso",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sankethandeqi/test-sso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankethandeqi/test-sso/issues"
+  },
+  "homepage": "https://github.com/sankethandeqi/test-sso"
+}
