@@ -1,7 +1,7 @@
 # test-sso
 
 ##### Table of Contents  
-[Workflow](#workflow)  
+[Workflow](docs/workflow.md)  
 [Installation](#installation)
 
 <a name="workflow"/>
